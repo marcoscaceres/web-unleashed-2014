@@ -1,4 +1,4 @@
-# Web Unleashed 2014 - New Shinny in ES6
+# Web Unleashed 2014 - New Shiny in ES6
 
 * [Presentation slides for Web Unleashed](http://marcoscaceres.github.io/web-unleashed-2014/#/)
 
